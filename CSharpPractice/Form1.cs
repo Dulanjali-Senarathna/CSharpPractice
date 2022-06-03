@@ -19,12 +19,10 @@ namespace CSharpPractice
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello","Title");
+            object myObj = 5;
+            MessageBox.Show(myObj.ToString());
         }
 
-        private void button2_MouseHover(object sender, EventArgs e)
-        {
-            MessageBox.Show("Hover the mouse");
-        }
+        
     }
 }
