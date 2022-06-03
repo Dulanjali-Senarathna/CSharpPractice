@@ -19,8 +19,7 @@ namespace CSharpPractice
 
         private void button2_Click(object sender, EventArgs e)
         {
-            object myObj = 5;
-            MessageBox.Show(myObj.ToString());
+            textBox1.MaxLength = 2;
         }
 
         

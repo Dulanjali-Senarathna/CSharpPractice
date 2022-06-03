@@ -1,0 +1,15 @@
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.exe
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.deps.json
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.dll
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\bin\Debug\netcoreapp3.1\CSharpPractice.pdb
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.Form1.resources
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.csproj.GenerateResource.cache
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.dll
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.pdb
+C:\Users\Dulanjali\Desktop\CSharpPractice\CSharpPractice\obj\Debug\netcoreapp3.1\CSharpPractice.genruntimeconfig.cache
