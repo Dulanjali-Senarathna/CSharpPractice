@@ -17,5 +17,14 @@ namespace CSharpPractice
             InitializeComponent();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello","Title");
+        }
+
+        private void button2_MouseHover(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hover the mouse");
+        }
     }
 }
